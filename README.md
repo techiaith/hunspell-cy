@@ -33,3 +33,7 @@ Am ragor o fanlion, gweler:
 *For more details, see:*
 
 https://github.com/blatinier/pyhunspell/wiki/Documentation
+
+Ariannwyd y diweddariad hwn gan Lywodraeth Cymru.
+
+*This update was funded by the Welsh Government.*
