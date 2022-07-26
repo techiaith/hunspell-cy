@@ -1,16 +1,16 @@
 # Hunspell CY
 
-Fersiwn wedi'i ddiweddaru o'r fersiwn Cymraeg o wirydd sillafu Hunspell. Mae'n cynnwys cannoedd o eirffurfiau ychwanegol gan gynnwys geirfa newydd fel 'hunlun' a rhediadau berfol cyflawn ar gyfer geiriau fel 'lawrlwytho' ('lawrlwythais', 'lawrlwythiast', etc.), 'blogio' a 'hunanynysu'.
+Fersiwn wedi'i ddiweddaru o'r fersiwn Cymraeg o wirydd sillafu Hunspell. Mae'n cynnwys cannoedd o eirffurfiau ychwanegol gan gynnwys geirfa newydd fel 'llywodraethiant', 'atgyfeirio' a 'rhianta'.
 
 
-*An updated version of the Welsh version of the Hunspell spellchecker. It includes hundreds of additional wordforms, including 'hunlun' (=selfie) and full veral conjugations for words such as 'lawrlwytho' (=to download) ('lawrlwythais', 'lawrlwythiast', etc.), 'blogio' (=to blog) and 'hunanynysu' (to self-isolate).*
+*An updated version of the Welsh version of the Hunspell spellchecker. It includes hundreds of additional wordforms, including 'hunlun' (=selfie) and full veral conjugations for words such as 'llywodraethiant', 'atgyfeirio' and 'rhianta'*
 
 I'w ddefnyddio o fewn eich cod:
 
 *To use in your code:*
 
 ```
-pip install pyhunspell
+pip install hunspell
 ```
 
 yna
@@ -32,7 +32,7 @@ Am ragor o fanlion, gweler:
 
 *For more details, see:*
 
-https://github.com/blatinier/pyhunspell/wiki/Documentation
+https://github.com/blatinier/pyhunspell
 
 Ariannwyd y diweddariad hwn gan Lywodraeth Cymru.
 
