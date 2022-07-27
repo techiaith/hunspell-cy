@@ -3,7 +3,7 @@
 Fersiwn wedi'i ddiweddaru o'r fersiwn Cymraeg o wirydd sillafu Hunspell. Mae'n cynnwys cannoedd o eirffurfiau ychwanegol gan gynnwys geirfa newydd fel 'llywodraethiant', 'atgyfeirio' a 'rhianta'.
 
 
-*An updated version of the Welsh version of the Hunspell spellchecker. It includes hundreds of additional wordforms, including 'hunlun' (=selfie) and full veral conjugations for words such as 'llywodraethiant', 'atgyfeirio' and 'rhianta'*
+*An updated version of the Welsh version of the Hunspell spellchecker. It includes hundreds of additional wordforms, including  'llywodraethiant', 'atgyfeirio' and 'rhianta'*
 
 I'w ddefnyddio o fewn eich cod:
 
