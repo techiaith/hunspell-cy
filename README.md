@@ -1,9 +1,9 @@
 # Hunspell CY
 
-Fersiwn wedi'i ddiweddaru o'r fersiwn Cymraeg o wirydd sillafu Hunspell. Mae'n cynnwys cannoedd o eirffurfiau ychwanegol gan gynnwys geirfa newydd fel 'llywodraethiant', 'atgyfeirio' a 'rhianta'.
+Fersiwn wedi'i ddiweddaru o'r fersiwn Cymraeg o wirydd sillafu Hunspell. Mae'r diweddariad yn cynnwys ffurfiau cysefin ychwanegol (gan gynnwys ‘actiwari’, ‘biodreulio’ a ‘seiberfwlio’) yn ogystal â 98 enw lle rhyngwladol ychwanegol (megis 'Irac'). Mae'r fersiwn newydd hwn hefyd yn delio gyda gogwyddeiriau Cymraeg yn well.
 
 
-*An updated version of the Welsh version of the Hunspell spellchecker. It includes hundreds of additional wordforms, including  'llywodraethiant', 'atgyfeirio' and 'rhianta'*
+*An updated version of the Welsh version of the Hunspell spellchecker. The update includes additional headword forms (including 'actiwari’, ‘biodreulio’ a ‘seiberfwlio’), and also includes 98 additional international placenames (such as 'Irac'). This version also deals with clitics more effectively.*
 
 I'w ddefnyddio o fewn eich cod:
 
