@@ -4,6 +4,8 @@
 
 Fersiwn wedi'i ddiweddaru o'r fersiwn Cymraeg o wirydd sillafu Hunspell. Mae'r diweddariad yn cynnwys ffurfiau cysefin ychwanegol (gan gynnwys ‘actiwari’, ‘biodreulio’ a ‘seiberfwlio’) yn ogystal â 98 enw lle rhyngwladol ychwanegol (megis 'Irac'). Mae'r fersiwn newydd hwn hefyd yn delio gyda gogwyddeiriau Cymraeg yn well.
 
+Cafodd Hunspell ei diweddaru eto ym mis Mawrth 2025. Mae'r diweddariad yn cynnwys ffurfiau cysefin ychwanegol  (gan gynnwys ‘mangre’, ‘niwroamrywiaeth’ a ‘rheoleiddiwr’).
+
 Dilynnwch y cyfarwyddiadau hyn er mwyn gosod Hunspell o fewn LibreOffice:
 [Cyfarwyddiadau LibreOffice cy.odt](https://github.com/techiaith/hunspell-cy/files/13218984/Cyfarwyddiadau.LibreOffice.cy.odt)
 
@@ -40,6 +42,7 @@ Ariannwyd y diweddariad hwn gan Lywodraeth Cymru.
 
 An updated version of the Welsh version of the Hunspell spellchecker. The update includes additional headword forms (including 'actiwari’, ‘biodreulio’ a ‘seiberfwlio’), and also includes 98 additional international placenames (such as 'Irac'). This version also deals with clitics more effectively.
 
+Hunspell was updated again in March 2025. The update includes additional headword forms (including ‘mangre’, ‘niwroamrywiaeth’ and ‘rheoleiddiwr’).
 
 Follow these intructions to install Hunspell in LibreOffice:
 [Cyfarwyddiadau LibreOffice en.odt](https://github.com/techiaith/hunspell-cy/files/13219008/Cyfarwyddiadau.LibreOffice.en.odt)
